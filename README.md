@@ -1,2 +1,2 @@
 # weather-app
-weatherapp created by yaswant kumar
+weatherapp created by yaswant kumar author yaswant kumar
